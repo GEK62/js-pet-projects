@@ -1,4 +1,4 @@
-# Pet projects made using pure JS,CSS and HTML by GEK🐱‍💻
+# Projects made using pure JS,CSS and HTML by GEK🐱‍💻
 
 ## 1 - Cards
 ## 2 - Drag&Drop
